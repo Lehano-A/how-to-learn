@@ -1,0 +1,4 @@
+/*Подблок "Соцсети"*/
+.footer__column_content_social {
+  flex-direction: column;
+}

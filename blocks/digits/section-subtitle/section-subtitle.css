@@ -1,0 +1,10 @@
+/*Подзаголовок "Про учёбу и мозг"*/
+.section-subtitle {
+  display: flex;
+  margin: 0;
+  width: 60%;
+  justify-content: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}

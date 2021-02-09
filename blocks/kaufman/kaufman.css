@@ -1,0 +1,12 @@
+/*Секция Kaufman*/
+.kaufman {
+  display: flex;
+  background-color: #1f1f1f;
+  overflow: hidden;
+  color: #fff;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}

@@ -1,0 +1,6 @@
+/*Логотип в шапке*/
+.logo {
+  width: 184px;
+  height: 36px;
+  z-index: 2;
+}

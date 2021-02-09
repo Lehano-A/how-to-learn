@@ -1,0 +1,5 @@
+/*НАЧАЛО ПРАВОГО БЛОКА*/
+/*Блок для "О Практикуме* и "Соцсети"*/
+.footer__column_content_info {
+  flex-direction: column;
+}

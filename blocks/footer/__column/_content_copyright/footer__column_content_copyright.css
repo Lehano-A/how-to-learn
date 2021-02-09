@@ -1,0 +1,8 @@
+/*НАЧАЛО ЛЕВОГО БЛОКА*/
+/*Блок с лого и авторством*/
+.footer__column_content_copyright {
+  flex-basis: 711px;
+  min-width: 50%;
+  flex-direction: column;
+  justify-content: space-between;
+}
